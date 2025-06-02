@@ -1,12 +1,12 @@
 ### 👋 About Me:
-👋 Hi! I'm Jameel, a Front-End Developer passionate about building modern, interactive web applications using React.js,
+Hi! I'm Jameel, a Front-End Developer passionate about building modern, interactive web applications using React.js,
 i have experience creating scalable and user-friendly interfaces that deliver great user experiences,
 In addition to front-end development, I also work with Node.js and Express to build efficient back-end services and RESTful APIs,
 🚀 I'm always eager to learn new technologies and contribute to impactful projects.
 
 
 ### 🔗 Socials:
-[![LinkedIn](https://www.linkedin.com/in/jameel-handomeh-38197b235/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameel-handomeh-38197b235/)
 
 
 --
