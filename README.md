@@ -9,7 +9,7 @@ In addition to front-end development, I also work with Node.js and Express to bu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameel-handomeh-38197b235/)
 
 
---
+
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -24,7 +24,7 @@ In addition to front-end development, I also work with Node.js and Express to bu
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-6E40C9?style=for-the-badge&logo=code&logoColor=white)
-—
+
 
 ### 📈 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=handomeh03&show_icons=true&theme=tokyonight)
