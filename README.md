@@ -24,6 +24,8 @@ In addition to front-end development, I also work with Node.js and Express to bu
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-6E40C9?style=for-the-badge&logo=code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 
 ### 📈 GitHub Stats:
