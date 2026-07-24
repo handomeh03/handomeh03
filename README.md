@@ -6,7 +6,7 @@ Building scalable, high-performance web & mobile applications with a strong focu
 ---
 
 ### 💡 About Me
-* 💼 **Current Role:** Software Engineer at **OpsHeaven Technologies**.
+* 💼 **Current Role:** Software Engineer.
 * 🛠️ **Core Expertise:** Modern Full-Stack Development (**TypeScript**, **React / React Native**, **NestJS**, **PostgreSQL**).
 * 🏗️ **Architecture & Design:** Clean Architecture, Feature-Based Frontend Structures, RBAC Systems, and Caching Strategies.
 * 🛡️ **Code Quality:** Robust Data Validation (**Zod + React Hook Form**), Secure Authentication (JWT, HttpOnly Cookies, Token Versioning), and clean maintainable code.
