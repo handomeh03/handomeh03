@@ -1,200 +1,118 @@
+<!-- GitHub profile README for github.com/handomeh03 -->
+<!-- Add this file to the root of your public handomeh03/handomeh03 repository. -->
+
 <div align="center">
 
-# 👋 Hey, I'm Jameel Handomeh
+<img width="100%" alt="Jameel Handomeh — Full Stack Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0891B2&height=250&section=header&text=Jameel%20Handomeh&fontSize=49&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer&descSize=21&descAlignY=57&descColor=E0F2FE" />
 
-### 🚀 Full-Stack Software Engineer
+Building thoughtfully engineered digital experiences.
+Full Stack Development  ·  Software Architecture  ·  AI Integration
 
-**Building scalable, maintainable, and production-ready applications**
+<a href="https://linkedin.com/in/jameelhandomeh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jameelhandomeh78@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/handomeh03?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 
-Focused on **Software Architecture · Type Safety · Clean Code · System Design · Performance**
-
-<br />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jameel-handomeh-38197b235/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge\&logo=About.me\&logoColor=white)](https://jameelhandomeh-portfolio.netlify.app/)
+<img src="https://komarev.com/ghpvc/?username=handomeh03&style=flat-square&color=0ea5e9&label=Profile+views" alt="GitHub profile views" />
 
 </div>
 
----
+👨‍💻 A little about me
+I'm Jameel, a Software Engineering graduate based in Amman, Jordan, with hands-on experience building end-to-end web applications — from intuitive interfaces to secure APIs and relational database systems.
 
-## 💡 About Me
+I enjoy turning complex requirements into clean, maintainable, and scalable software. My work has included SaaS platforms, healthcare systems, fintech applications, and AI/LLM integrations.
+- 🧠 Engineering mindset: OOP, SOLID, design patterns, clean code, and modular architecture.
+- ⚙️ What I build: Full-stack applications, RESTful APIs, data models, and role-based systems.
+- 🤖 AI experience: OpenAI API integration, structured LLM outputs, and RAG workflows.
+- 📈 Growing toward: Software architecture, system design, and reliable cloud-native services.
+- 🤝 Open to: Software engineering opportunities and meaningful technical collaboration.
+My approach: Build something that works. Understand why it works. Design it so it keeps working as it grows.
 
-I'm a **Full-Stack Software Engineer** passionate about building reliable and scalable applications from the frontend to the backend.
+🧰 Tech stack
+<div align="center">
 
-* 🏗️ Strong interest in **Software Architecture & System Design**
-* ⚡ Building modern applications with **TypeScript & JavaScript**
-* 🎨 Developing responsive web and mobile experiences
-* 🔐 Implementing secure authentication, authorization, and RBAC
-* 🧩 Applying **Clean Architecture** and maintainable project structures
-* 🚀 Interested in performance, scalability, caching, and production systems
-* 📚 Continuously learning and improving through real-world projects
+Languages & frontend
+<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nextjs,tailwind,html,css&theme=dark" alt="JavaScript, TypeScript, C Sharp, React, Next.js, Tailwind CSS, HTML, CSS" />
 
----
 
-## 🧠 Engineering Focus
 
-```text
-┌──────────────────────────────────────────────────┐
-│              SOFTWARE ENGINEERING                │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│  🏗️ Architecture      → Clean Architecture     │
-│  🧩 Design             → Design Patterns        │
-│  🔐 Security           → JWT / RBAC / Cookies   │
-│  ⚡ Performance        → Caching / Optimization │
-│  🗄️ Data               → SQL / NoSQL / Redis    │
-│  📡 APIs               → REST / Backend Systems │
-│  🐳 Infrastructure     → Docker / Nginx        │
-│  📈 Scalability        → Modular Architecture  │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
 
----
+Backend & data
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet,postgres,mysql,mongodb,redis,prisma&theme=dark" alt="Node.js, NestJS, Express, .NET, PostgreSQL, MySQL, MongoDB, Redis, Prisma" />
 
-# 💻 Tech Stack
 
-### 🔤 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src=" https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
- 
-</p>
 
-### 🎨 Frontend & Mobile
+Development & delivery
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Postman, Visual Studio Code" />
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-</p>
+</div>
 
-### ⚙️ Backend & Databases
 
-<p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
+Also working with: ASP.NET Core Web API · Entity Framework Core · TanStack Query · React Hook Form · Zod · JWT · RBAC · CI/CD · REST APIs
+🚀 Featured projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛋️ Tafseel</h3>
+      <p><strong>Multi-tenant furniture SaaS</strong></p>
+      <p>A platform for managing furniture stores, product catalogs, custom orders, and role-based dashboards, backed by modular APIs and relational data models.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>NestJS</code> <code>PostgreSQL</code></p>
+      <a href="https://tafseel-frontend.onrender.com/"><strong>Live Demo</strong></a> · <a href="https://github.com/handomeh03/Tafseel"><strong>Source Code</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 ZWallet</h3>
+      <p><strong>Digital wallet & fintech platform</strong></p>
+      <p>A digital wallet experience focused on safer transfer workflows, recipient confirmation, and integration with JoPACC sandbox APIs.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>NestJS</code> <code>PostgreSQL</code></p>
+      <a href="https://zwallet.onrender.com/"><strong>Live Demo</strong></a> · <a href="https://github.com/handomeh03/Zwallet"><strong>Source Code</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 SaleemCare</h3>
+      <p><strong>Healthcare scheduling & management</strong></p>
+      <p>A role-based clinic platform featuring JWT authentication, API rate limiting, doctors' schedules, appointment booking, and tracking.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>NestJS</code> <code>PostgreSQL</code></p>
+      <a href="https://saleem-22v9.onrender.com/"><strong>Live Demo</strong></a> · <a href="https://github.com/handomeh03/Saleem"><strong>Source Code</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 Student Nest</h3>
+      <p><strong>Student housing platform</strong></p>
+      <p>A web and mobile experience for discovering verified accommodations, managing rental requests, and supporting digital lease agreements.</p>
+      <p><code>React</code> <code>React Native</code> <code>Node.js</code> <code>MySQL</code></p>
+      <a href="https://studentnest.cloud/"><strong>Live Demo</strong></a> · <a href="https://github.com/handomeh03/studentNest"><strong>Source Code</strong></a>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ DevOps & Tools
+💼 Experience & education
+Junior Full Stack Developer · Opsheaven Technology LLC
+March 2026 – August 2026 · Amman, Jordan
+- Built responsive frontend features and secure backend APIs.
+- Integrated OpenAI services and LLM/RAG workflows into application pipelines.
+- Designed PostgreSQL data models with Prisma and worked in Agile delivery workflows.
+B.Sc. in Software Engineering · Middle East University
+GPA: 3.5 / 4.0
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+Fintech Rally Hackathon (2025) · Developed a fintech prototype using JoPACC sandbox APIs.
+📊 GitHub activity
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=handomeh03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="Jameel's GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handomeh03&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=6" alt="Most used languages across public GitHub repositories" />
 
-# 🏗️ Development Philosophy
-
-I believe good software isn't just about making things work — it's about making them **easy to understand, maintain, scale, and evolve**.
-
-```text
-Clean Code
-     ↓
-Good Architecture
-     ↓
-Maintainable Systems
-     ↓
-Scalable Applications
-     ↓
-Better User Experience
-```
-
----
-
-# 📌 What I Build
-
-### 🌐 Full-Stack Applications
-
-End-to-end web applications with modern frontend and backend architectures.
-
-### 📱 Mobile Applications
-
-Cross-platform mobile experiences using React Native and Expo.
-
-### ⚙️ Backend Systems
-
-REST APIs, authentication systems, RBAC, database architecture, caching, and business logic.
-
-### 🏗️ Scalable Architectures
-
-Modular and maintainable systems designed with separation of concerns and scalability in mind.
-
----
-
-# 📊 My Development Journey
-
-```text
-Frontend
-   │
-   ├── React
-   ├── Next.js
-   └── React Native
-        │
-        ▼
-Backend
-   │
-   ├── Node.js
-   ├── Express.js
-   └── NestJS
-        │
-        ▼
-Data
-   │
-   ├── PostgreSQL
-   ├── MySQL
-   ├── MongoDB
-   └── Redis
-        │
-        ▼
-Architecture
-   │
-   ├── Clean Architecture
-   ├── Design Patterns
-   ├── RBAC
-   └── System Design
-        │
-        ▼
-Infrastructure
-   │
-   ├── Docker
-   ├── Nginx
-   └── Production Deployment
-```
-
----
-
-## 🎯 Current Focus
-
-> **Becoming a stronger Software Engineer by going deeper into Architecture, System Design, Backend Engineering, and scalable distributed systems.**
-
----
+<sub>Public-repository statistics are generated by third-party services and may occasionally be unavailable.</sub>
+</div>
 
 <div align="center">
 
-### 🚀 Let's Build Something Great
+Let's build something that matters.
+I'm always interested in thoughtful engineering, interesting challenges, and opportunities to learn with great teams.
 
-<i>Design. Build. Scale. Improve.</i>
+<a href="mailto:jameelhandomeh78@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20Touch-Email%20Me-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jameel" /></a>
 
-<br /><br />
 
-⭐ Feel free to explore my repositories and projects.
+
+<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0891B2&height=110&section=footer" />
 
 </div>
